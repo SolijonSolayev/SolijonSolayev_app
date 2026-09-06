@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center badge circle -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M54,26 A28,28 0 1,0 54,82 A28,28 0 1,0 54,26 Z" />
+    <!-- Terminal Code glyph < / > inside circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,46 L36,54 L44,62 L41.5,64.5 L31.5,54.5 L31.5,53.5 L41.5,43.5 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,46 L72,54 L64,62 L66.5,64.5 L76.5,54.5 L76.5,53.5 L66.5,43.5 Z" />
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M57,42 L50,66 L47,65 L54,41 Z" />
+</vector>
